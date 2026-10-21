@@ -15,9 +15,9 @@
 
 ### 🛠️ Compétences Techniques
 
-- **Langages de programmation :** `Python`, `C`, `C++`, `Bash`
+- **Langages de programmation :** `Python`, `C`, `C++`, `sql`
 - **Calcul Scientifique & Data :** `NumPy`, `Pandas`, `Matplotlib`, `SciPy`, `JAX`
-- **Environnement & Outils :** `Linux (WSL/Ubuntu)`, `VS Code`, `Git / GitHub`, `Jupyter`, `LaTeX`, `AsciiDoc`
+- **Environnement & Outils :** `Linux (WSL/Ubuntu)`, `VS Code`, `Git / GitHub`, `Jupyter`, `LaTeX`
 
 ---
 
