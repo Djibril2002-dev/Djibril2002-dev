@@ -9,7 +9,7 @@
 
 - 🎓 **Formation :** Licence MPI (UCAD) ➔ Master CSMI (Université de Strasbourg)
 - 💻 **Domaines d'intérêt :** Analyse numérique, Algorithmique, HPC (MPI), Data & Machine Learning
-- 🎯 **Objectif :** Ingénieur R&D en calcul scientifique et simulation numérique
+  
 
 ---
 
